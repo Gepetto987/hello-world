@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi people!
+
+I'm SM4SH01. I'm totally new to programming. By now, i'm learning C++.
